@@ -11,6 +11,7 @@ on:
     paths-ignore:
       - '**.md'
 
+      
 jobs:
   call-basic-validation:
     name: Basic validation
